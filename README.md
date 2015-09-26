@@ -19,7 +19,10 @@
 [peer-deps-badge-react-native]: https://david-dm.org/facebook/react-native/peer-status.svg
 [peer-deps-react-native]: https://david-dm.org/facebook/react-native#info=peerDependencies 
 
-
+[npm-badge]: http://badge.fury.io/js/echarts.svg
+[npm]: http://badge.fury.io/js/echarts
+[travis-ci-image]: https://travis-ci.org/io3/echarts.svg
+[travis-ci-url]: https://travis-ci.org/io3/echarts
 [deps-badge]: https://david-dm.org/io3/echarts.svg
 [deps]: https://david-dm.org/io3/echarts
 [dev-deps-badge]: https://david-dm.org/io3/echarts/dev-status.svg
