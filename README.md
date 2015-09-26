@@ -1,14 +1,13 @@
 # io3.github.io
 
-[React Native](https://github.com/facebook/react-native) 
-[![Build Status](https://travis-ci.org/facebook/react-native.svg?branch=master)](https://travis-ci.org/facebook/react-native) [![npm version](https://badge.fury.io/js/react-native.svg)](http://badge.fury.io/js/react-native)
-
+[React Native][github-react-native] 
 [![NPM version][npm-badge-react-native]][npm-react-native] 
 [![Build Status][travis-ci-image-react-native]][travis-ci-url-react-native]
 [![Dependency Status][deps-badge-react-native]][deps-react-native]
 [![devDependency Status][dev-deps-badge-react-native]][dev-deps-react-native]
 [![peerDependency Status][peer-deps-badge-react-native]][peer-deps-react-native]
 
+[github-react-native]: https://github.com/facebook/react-native
 [npm-badge-react-native]: http://badge.fury.io/js/react-native.svg
 [npm-react-native]: http://badge.fury.io/js/react-native
 [travis-ci-image-react-native]: https://travis-ci.org/facebook/react-native.svg
