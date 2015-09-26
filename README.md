@@ -1,5 +1,25 @@
 # io3.github.io
 
+[React][github-react] 
+[![NPM version][npm-badge-react]][npm-react] 
+[![Build Status][travis-ci-image-react]][travis-ci-url-react]
+[![Dependency Status][deps-badge-react]][deps-react]
+[![devDependency Status][dev-deps-badge-react]][dev-deps-react]
+[![peerDependency Status][peer-deps-badge-react]][peer-deps-react]
+
+[github-react]: https://github.com/facebook/react
+[npm-badge-react]: http://badge.fury.io/js/react.svg
+[npm-react]: http://badge.fury.io/js/react
+[travis-ci-image-react]: https://travis-ci.org/facebook/react.svg
+[travis-ci-url-react]: https://travis-ci.org/facebook/react
+[deps-badge-react]: https://david-dm.org/facebook/react.svg
+[deps-react]: https://david-dm.org/facebook/react
+[dev-deps-badge-react]: https://david-dm.org/facebook/react/dev-status.svg
+[dev-deps-react]: https://david-dm.org/facebook/react#info=devDependencies
+[peer-deps-badge-react]: https://david-dm.org/facebook/react/peer-status.svg
+[peer-deps-react]: https://david-dm.org/facebook/react#info=peerDependencies 
+
+
 [React Native][github-react-native] 
 [![NPM version][npm-badge-react-native]][npm-react-native] 
 [![Build Status][travis-ci-image-react-native]][travis-ci-url-react-native]
